@@ -1,6 +1,5 @@
 import { Avatar, Box, Divider, Flex, Text } from "@chakra-ui/react";
 import { useState } from "react";
-import avatar from "../assets/images/zuck-avatar.png";
 import { BsThreeDots } from "react-icons/bs";
 import { Actions } from "./Actions";
 
